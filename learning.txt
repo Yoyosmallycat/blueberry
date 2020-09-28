@@ -1,2 +1,3 @@
 learing plan
 link R_studio to github and create a new repository 
+do a commit and merge a pull request

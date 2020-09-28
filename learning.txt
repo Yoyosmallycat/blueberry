@@ -1,1 +1,2 @@
 learing plan
+link R_studio to github and create a new repository 
